@@ -1,0 +1,65 @@
+{
+  "schema": "karest.product.visual-asset/1",
+  "version": "2026-11-11-github-pages-cutover-v1",
+  "profile": "solar.panel.engineering/1.1",
+  "scale": "solar.panel.scale/1",
+  "noindex": true,
+  "items": [
+    {
+      "id": "KS-P-009",
+      "brand": "Trina Solar",
+      "model": "TSM-715NEG21C.20",
+      "pmaxW": 715,
+      "efficiencyPct": 23,
+      "url": "https://solar.karest.net/cards/ks-p-009.svg"
+    },
+    {
+      "id": "KS-P-010",
+      "brand": "Trina Solar",
+      "model": "TSM-710NEG21C.20",
+      "pmaxW": 710,
+      "efficiencyPct": 22.9,
+      "url": "https://solar.karest.net/cards/ks-p-010.svg"
+    },
+    {
+      "id": "KS-P-011",
+      "brand": "Jinko Solar",
+      "model": "JKM620N-78HL4-BDV",
+      "pmaxW": 620,
+      "efficiencyPct": 22.18,
+      "url": "https://solar.karest.net/cards/ks-p-011.svg"
+    },
+    {
+      "id": "KS-P-012",
+      "brand": "Trina Solar",
+      "model": "TSM-615NE19R",
+      "pmaxW": 615,
+      "efficiencyPct": 22.8,
+      "url": "https://solar.karest.net/cards/ks-p-012.svg"
+    },
+    {
+      "id": "KS-P-013",
+      "brand": "Trina Solar",
+      "model": "TSM-705NEG21C.20",
+      "pmaxW": 705,
+      "efficiencyPct": 22.7,
+      "url": "https://solar.karest.net/cards/ks-p-013.svg"
+    },
+    {
+      "id": "KS-P-014",
+      "brand": "Trina Solar",
+      "model": "TSM-620NED19RC.20",
+      "pmaxW": 620,
+      "efficiencyPct": 23,
+      "url": "https://solar.karest.net/cards/ks-p-014.svg"
+    },
+    {
+      "id": "KS-P-015",
+      "brand": "LONGi Solar",
+      "model": "LR5-72HBD-545M",
+      "pmaxW": 545,
+      "efficiencyPct": 21.3,
+      "url": "https://solar.karest.net/cards/ks-p-015.svg"
+    }
+  ]
+}
